@@ -1,0 +1,5 @@
+{
+  "name": "Zenith CRM",
+  "description": "A comprehensive SaaS project management and CRM application. Track projects, manage tasks on a Kanban board, visualize timelines with a Gantt chart, and maintain your contact list all in one place.",
+  "requestFramePermissions": []
+}
