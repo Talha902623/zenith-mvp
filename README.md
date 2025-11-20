@@ -1,20 +1,12 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🚀 Zenith (Prototype)
 
-# Run and deploy your AI Studio app
+This is the initial frontend prototype for **Zenith**, an upcoming SaaS platform designed to bridge the gap between CRM and Project Management.
 
-This contains everything you need to run your app locally.
+### 🚧 Current Status: Prototype
+This codebase represents the UI/UX and frontend logic. It is fully functional as a single-page application but currently uses mock data.
 
-View your app in AI Studio: https://ai.studio/apps/drive/17ysfijrEShtSP4bFtNNyDTEBF3FQyeS1
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### 🔮 Future Roadmap
+- [ ] Integrate Supabase for User Authentication & Database
+- [ ] Add Team Collaboration features (Comments, Mentions)
+- [ ] Implement Stripe for subscription payments
+- [ ] Deploy to production environment
